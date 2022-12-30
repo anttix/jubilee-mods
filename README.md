@@ -6,7 +6,6 @@ by Joshua Vasquez. Any bugs are added by me and not by the original author.
 ## Open Source
 
 Licensed under a [Creative Commons Attribution 4.0 Unported License][cc-by] (CC BY 4.0).
-and [Certified Open Source Hardware](https://certification.oshwa.org/us002091.html).
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
